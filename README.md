@@ -1,6 +1,6 @@
 # Dashboard_Amazon
 
-## Objectif
+## Objectifs
 - Transformer des données de ventes brutes (10 000+ lignes) en un outil d'aide à la décision interactif.
 - Analyser la performance commerciale, la segmentation produit et la répartition géographique
 - Identifier les zones de croissance et les comportements d'achat des clients
@@ -60,3 +60,13 @@
 
 ### 6 - Corrélation CA/Quantité
 - La corrélation linéaire est presque parfaite, le prix de vente moyen est stable à travers les États, il n'y a pas d'État où l'on vend "peu mais très cher"
+
+## Utilisation
+- Télécharger le fichier `dashboard_amazon.pbix`
+- Ouvrir sur Power BI Desktop
+
+## Compétences démontrés
+- Nettoyage de données : Power Query (gestion des formats régionaux US/FR, traitement des dates, typage des données).
+- Modélisation : Création d'un schéma en étoile (Table de faits et Tables de dimensions).
+- DAX : Création de mesures calculées (KPI).
+- Visualisation : Design de dashboards interactifs avec navigation par onglets
