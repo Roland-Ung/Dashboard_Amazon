@@ -70,3 +70,14 @@
 - Modélisation : Création d'un schéma en étoile (Table de faits et Tables de dimensions).
 - DAX : Création de mesures calculées (KPI).
 - Visualisation : Design de dashboards interactifs avec navigation par onglets
+
+## Structure du projet
+```
+Dashboard_Amazon/
+│
+├── Aperçus/
+│   ├── Analyse géographique.png      Aperçu de l'onglet sur les performances par Etat et villes
+│   ├── Synthèse commerciale.png      Aperçu de l'onglet sur la performance globale des ventes
+├── dashboard.pbix                    Tableaux de bord
+└── README.md
+```
